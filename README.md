@@ -77,8 +77,10 @@ pip install -r requirements.txt
 ## 4.  Running the Project
 python app/main.py 
 
+## Example output - test.json
+<img width="1512" height="569" alt="Screenshot 2025-07-28 191202" src="https://github.com/user-attachments/assets/7d279218-42b8-4905-93b5-818f8f882abc" />
 
-##  Example output - test.json
+##  Example output - persona.json
 
 <img width="1496" height="219" alt="image" src="https://github.com/user-attachments/assets/4786b8bb-76b9-4a39-a632-19a828618398" />
 
