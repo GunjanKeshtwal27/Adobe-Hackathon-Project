@@ -544,6 +544,19 @@ python app/main.py
   ]
 }
 
+## Technologies used-
+-Python 3.10
+
+-PyMuPDF (fitz)
+
+-SentenceTransformers
+
+-Transformers (t5-small)
+
+-scikit-learn, joblib
+
+-tqdm, json, argparse
+
 
 
 
