@@ -38,22 +38,22 @@ This project is built for the Adobe India Hackathon challenge to help  developer
 ##  Project Structure
 
 Adobe_Hack/
-│
-├── app/
-│ ├── main.py 
-│ ├── extractor.py # Extract heading and content
-│ ├── ml_model.py #  vectorizer + classifier
-│ ├── persona_analyzer.py # Persona-based ranking & summary
-│
-├── sample_input/
-│ └── *.pdf #pdf files
-│
-├── sample_output/
-│ ├── test.json
-│ └── persona_output.json
-│
-├── persona.txt # Described user goal 
-└── requirements.txt # All required dependencies
+-│
+-├── app/
+-│ ├── main.py 
+-│ ├── extractor.py # Extract heading and content
+-│ ├── ml_model.py #  vectorizer + classifier
+-│ ├── persona_analyzer.py # Persona-based ranking & summary
+-│
+-├── sample_input/
+-│ └── *.pdf #pdf files
+-│
+-├── sample_output/
+-│ ├── test.json
+-│ └── persona_output.json
+-│
+-├── persona.txt # Described user goal 
+-└── requirements.txt # All required dependencies
 
 
 
